@@ -1,5 +1,5 @@
 # Time table
-<a href="#">Check Live Preview</a>
+<a href="https://m-sahil-table1.surge.sh/" target = "_blank">Check Live Preview</a>
 
 ## Language Used
 - Html5
